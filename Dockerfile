@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN ["echooo","hello world"]
+RUN ["echo","hello world"]
