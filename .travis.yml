@@ -1,4 +1,4 @@
-language: 
+language: #!bin/bash
 
 services:
   - docker
