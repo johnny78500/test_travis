@@ -1,4 +1,10 @@
-language: #!bin/bash
+language: ruby
 
+rvm:
+  - 2.5
+  - 2.6
+  - jruby
+  - truffleruby
+  
 services:
   - docker
